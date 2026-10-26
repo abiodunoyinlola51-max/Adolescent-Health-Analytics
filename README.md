@@ -42,9 +42,9 @@ Sleep duration
 The corrected synthetic dataset contained 1,000 adolescent participants, with sleep duration ranging from 4 to 12 hours and an overall mean of 8.01 hours. The mean sleep duration varied across age groups, ranging from 7.56 hours among 15-year-olds to 8.38 hours among 11-year-olds. Since the sleep values were randomly regenerated for practice purposes, these age-specific differences should be interpreted as characteristics of the simulated dataset rather than evidence of actual sleep patterns among Nigerian adolescents.
 
 Project Files
-adolescent_health_data.csv — synthetic dataset.
-adolescent_health_analysis.sql — SQL analysis queries.
-Excel workbook 
+adolescent_health_analysis.xlsx
+adolescent_health_analysis.csv — synthetic dataset.
+adolescent_health.sql — SQL analysis queries.
 
 Conclusion
 This project demonstrates how SQL and Excel can be used to validate, summarise, and explore health-related data. It provides a foundation for further development in healthcare analytics and public health data analysis.
