@@ -434,11 +434,4 @@ GROUP BY School_Attendance
 ORDER BY column_name, category;
 
 
-SELECT
-    Sleep_Hours,
-    COUNT(*) AS Participant_Count
-FROM mytable
-GROUP BY Sleep_Hours
-ORDER BY Sleep_Hours;
-
 -- END OF SQL ANALYSIS
