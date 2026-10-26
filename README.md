@@ -38,13 +38,13 @@ Average screen time was 6.45 hours for urban records and 6.34 hours for rural re
 No duplicate participant IDs were detected in the duplicate-ID check.
 These findings describe only the synthetic dataset and must not be interpreted as estimates for Nigeria's adolescent population.
 Data Quality and Limitations
-The sleep-duration values ranged from 4 to 22 hours, although the intended generation range was 4–12 hours. This discrepancy requires investigation before sleep-related findings can be interpreted.
-The dataset is fictional and cannot establish actual population patterns or causal relationships.
+Sleep duration
+The corrected synthetic dataset contained 1,000 adolescent participants, with sleep duration ranging from 4 to 12 hours and an overall mean of 8.01 hours. The mean sleep duration varied across age groups, ranging from 7.56 hours among 15-year-olds to 8.38 hours among 11-year-olds. Since the sleep values were randomly regenerated for practice purposes, these age-specific differences should be interpreted as characteristics of the simulated dataset rather than evidence of actual sleep patterns among Nigerian adolescents.
 
 Project Files
 adolescent_health_data.csv — synthetic dataset.
 adolescent_health_analysis.sql — SQL analysis queries.
-Excel workbook — dashboard and/or analysis workbook, depending on the uploaded file.
+Excel workbook 
 
 Conclusion
 This project demonstrates how SQL and Excel can be used to validate, summarise, and explore health-related data. It provides a foundation for further development in healthcare analytics and public health data analysis.
