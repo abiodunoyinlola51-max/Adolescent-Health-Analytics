@@ -43,6 +43,7 @@ The dataset is intended for analytical practice and portfolio demonstration. It 
 | Average Screen Time | 6.41 hours |
 
 ## Dashboard Visualisations
+[Adolescent Health Dashboard](adolescent-health-dashboard.png)
 
 The interactive dashboard contains:
 
