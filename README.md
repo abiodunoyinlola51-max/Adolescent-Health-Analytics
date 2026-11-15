@@ -1,50 +1,88 @@
-Adolescent Health and Well-being in Nigeria: A Data Analytics Project
+# Adolescent Health & Well-being in Nigeria
 
-Project Overview
+### A Data Analytics Project Using Excel, SQL and Power BI
 
-This project demonstrates the use of SQL and Microsoft Excel to explore adolescent health and wellbeing indicators using a synthetic dataset of 1,000 fictional participants aged 10–19 years.
-The project focuses on data validation, descriptive analysis, and comparisons across age groups and residential settings.
-Important: This dataset is synthetic. It does not represent an official Nigerian survey or actual adolescent health outcomes.
+## Project Overview
 
-Project Objectives
-Examine participant distribution by age group.
-Analyse physical activity and wellbeing categories.
-Explore healthcare access by residential setting.
-Compare screen time and school attendance across urban and rural participants.
-Examine sugary-drink consumption and health education.
-Perform data-quality checks using SQL.
+This project explores adolescent health and well-being using a synthetic dataset of 1,000 participants.
 
-Tools Used
+The goal is to demonstrate how data analytics tools can be used to examine health-related indicators, identify patterns and communicate findings through interactive visualisations.
 
-MySQL 3.39
-SQL
-Microsoft Excel
-GitHub
+The project covers data preparation, analysis and dashboard development using Excel, SQL and Power BI.
 
-Dataset
-The dataset contains 1,000 fictional participant records and variables relating to age, sex, state, residence, physical activity, sleep duration, fruit intake, sugary-drink consumption, screen time, school attendance, health education, healthcare access, and wellbeing.
-SQL Techniques
-SELECT, WHERE, GROUP BY and ORDER BY
-Aggregate functions such as COUNT, AVG, MIN and MAX
-CASE WHEN statements
-Group comparisons
+## Project Objectives
 
-Data-quality checks for duplicate IDs, missing values and category consistency
-Key Findings
-The illustrative analysis found that:
-59.6% of records were classified as physically active.
-72.65% of urban records and 68.45% of rural records were classified as having accessible healthcare.
-Average screen time was 6.45 hours for urban records and 6.34 hours for rural records.
-No duplicate participant IDs were detected in the duplicate-ID check.
-These findings describe only the synthetic dataset and must not be interpreted as estimates for Nigeria's adolescent population.
-Data Quality and Limitations
-Sleep duration
-The corrected synthetic dataset contained 1,000 adolescent participants, with sleep duration ranging from 4 to 12 hours and an overall mean of 8.01 hours. The mean sleep duration varied across age groups, ranging from 7.56 hours among 15-year-olds to 8.38 hours among 11-year-olds. Since the sleep values were randomly regenerated for practice purposes, these age-specific differences should be interpreted as characteristics of the simulated dataset rather than evidence of actual sleep patterns among Nigerian adolescents.
+- Examine the distribution of adolescent well-being.
+- Explore physical activity patterns among participants.
+- Analyse average sleep duration, age and screen time.
+- Compare healthcare accessibility across urban and rural residences.
+- Present key indicators through an interactive Power BI dashboard.
 
-Project Files
-adolescent_health_analysis.xlsx
-adolescent_health_analysis.csv — synthetic dataset.
-adolescent_health.sql — SQL analysis queries.
+## Tools and Technologies
 
-Conclusion
-This project demonstrates how SQL and Excel can be used to validate, summarise, and explore health-related data. It provides a foundation for further development in healthcare analytics and public health data analysis.
+| Tool | Application |
+| Microsoft Excel | Data cleaning and preparation |
+| SQL (MySQL) | Data querying and analysis |
+| Power BI | Interactive dashboard development |
+
+## Dataset
+
+- **Total records:** 1,000
+- **Population:** Adolescent participants
+- **Data type:** Synthetic dataset
+- **Project year:** 2026
+
+The dataset is intended for analytical practice and portfolio demonstration. It does not represent actual national survey findings.
+
+## Key Performance Indicators
+
+| Indicator | Result |
+| Total Participants | 1,000 |
+| Average Sleep | 8.01 hours |
+| Average Age | 14.44 years |
+| Average Screen Time | 6.41 hours |
+
+## Dashboard Visualisations
+
+The interactive dashboard contains:
+
+1. **Well-being Distribution:** Comparison of high, moderate and low well-being categories.
+2. **Physical Activity Distribution:** Proportion of active and inactive participants.
+3. **Healthcare Accessibility by Residence:** Comparison of healthcare accessibility across urban and rural participants.
+4. **Physical Activity by Age Group:** Exploration of physical activity patterns across age groups.
+
+Interactive slicers allow users to explore the dashboard by residence, age, sex and well-being category.
+
+## Key Observations
+
+- The well-being categories are relatively evenly distributed across the dataset.
+- Approximately 59.6% of participants are classified as physically active, while 40.4% are inactive.
+- Average sleep duration is 8.01 hours.
+- Average screen time is 6.41 hours.
+
+These observations describe the synthetic dataset and should not be interpreted as estimates for Nigeria's adolescent population.
+
+## Project Deliverables
+
+- Prepared synthetic adolescent health dataset.
+- SQL analysis.
+- Excel data preparation.
+- Interactive Power BI dashboard.
+
+## Skills Demonstrated
+
+- Data cleaning and preparation
+- SQL querying
+- Exploratory data analysis
+- Data visualisation
+- Dashboard design
+- Analytical communication
+
+## Conclusion
+
+This project demonstrates the application of data analytics techniques to health-related data. It combines Excel, SQL and Power BI to transform structured data into an interactive dashboard that makes key indicators easier to explore and understand.
+
+**Author:** Abiodun Oyinlola Daniel  
+**Field:** Data Analytics  
+**Project:** Adolescent Health & Well-being Analytics  
+**Year:** 2026
