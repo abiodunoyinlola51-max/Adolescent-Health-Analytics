@@ -36,6 +36,7 @@ The dataset is intended for analytical practice and portfolio demonstration. It 
 ## Key Performance Indicators
 
 | Indicator | Result |
+|---|---:|
 | Total Participants | 1,000 |
 | Average Sleep | 8.01 hours |
 | Average Age | 14.44 years |
