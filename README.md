@@ -18,9 +18,8 @@ The project covers data preparation, analysis and dashboard development using Ex
 - Compare healthcare accessibility across urban and rural residences.
 - Present key indicators through an interactive Power BI dashboard.
 
-## Tools and Technologies
-
 | Tool | Application |
+|---|---|
 | Microsoft Excel | Data cleaning and preparation |
 | SQL (MySQL) | Data querying and analysis |
 | Power BI | Interactive dashboard development |
